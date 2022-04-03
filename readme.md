@@ -19,3 +19,13 @@ npm run first
 ```
 npm run second
 ```
+
+##### References:
+
+For Task1:
+
+For Task2:
+
+ 1. https://nodejs.org/api/dns.html#dnsresolvetxthostname-callback
+ 2. https://nodejs.org/api/dns.html#dnsresolvetxthostname-callback
+

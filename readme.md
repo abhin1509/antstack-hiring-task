@@ -24,6 +24,8 @@ npm run second
 
 For Task1:
 
+1. https://github.com/node-fetch/node-fetch#plain-text-or-html
+
 For Task2:
 
  1. https://nodejs.org/api/dns.html#dnsresolvetxthostname-callback
